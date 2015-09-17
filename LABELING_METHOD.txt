@@ -1,0 +1,12 @@
+For the resulting data matrix, I choose the directionality of bid price
+for EURUSD as the label, and the directionality of bid price for all other
+available currency as features.
+
+The reason for my choice is that it will be an interesting model if we can 
+use the trend of the directionality of bid price for other price to predict
+the directionality of the bid for EURUSD in the next several minutes. And I
+believe the changing of the bid for different currency are somewhat related.
+
+To derive such a matrix, I align all the raw data to the same timestep (1 minute), 
+and label the directionality of the bid for each record by observing the bid price 
+for each adjacent records. 
