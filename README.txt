@@ -17,6 +17,9 @@ The third file combine all the aligned data together to generate a data matrix,
 where we use the directionality of all currency except for EURUSD as features (14 features in total), 
 and we use EURUSD as the label.
 
+Format:
+TIME	AUDJPY	AUDNZD	AUDUSD	CADJPY	CHFJPY	EURCHF	EURGBP	EURJPY	GBPJPY	GBPUSD	NZDUSD	USDCAD	USDCHF	USDJPY	EURUSD(label)
+
 Sample of the result matrix looks like following:
 
 20150101 21:43	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
