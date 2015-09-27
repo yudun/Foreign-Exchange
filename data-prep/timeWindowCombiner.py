@@ -4,7 +4,7 @@
 # @Author: Name:Shimin Wang; andrewID:shiminw
 # @Email: wyudun@gmail.com
 # @Date:   2015-09-16 00:01:48
-# @Last Modified time: 2015-09-16 22:29:59
+# @Last Modified time: 2015-09-27 11:25:13
 #
 # @Description: Combining aligned into a single file where
 # each record shows the directiobality for different currency.
@@ -18,12 +18,19 @@ import os
 from os import listdir
 from os.path import isfile, join
 
+# We don't need features listed in this list
+REMOVE_FEATURE = []
 # We choose the directionality of the bid of EURUSD as the LABEL
 LABEL = "EURUSD-2015-01.csv"
+# How many minutes in the future we want to predict for
+PREDICT_INTO = 10
 
 # Define input and out put directory
-INPUT_DATA_DIR = "../lab1/alignedData/"
-OUTPUT_DATA_DIR = "../lab1/"
+INPUT_DATA_DIR = "../../lab1/alignedData/"
+OUTPUT_DATA_DIR = "../../lab2/"
+
+# 1 minute
+ONE_MINUTE = datetime.timedelta(minutes=1) 
 
 ####################### helper function #######################
 ## Peek the next line of file f without advancing the file iterator
@@ -69,8 +76,12 @@ def timeWindowCombiner(fileNameList, outfilename):
 
 	# get all the directionality data for our first timeStamp
 	firstLine = []
-	for f in fHandleList:
-		firstLine.append(fileLineAdvanceTo(f, maxTime))
+	for i in range(len(fHandleList)):
+		f = fHandleList[i]
+		if i == len(fHandleList)-1:
+			firstLine.append(fileLineAdvanceTo(f, maxTime + PREDICT_INTO * ONE_MINUTE))
+		else:
+			firstLine.append(fileLineAdvanceTo(f, maxTime))
 
 	# write the first line of our final maxtrix to the result file
 	outf.write(maxTime.strftime("%Y%m%d %H:%M")+"\t" + "\t".join(firstLine) + "\n")
@@ -80,6 +91,7 @@ def timeWindowCombiner(fileNameList, outfilename):
 	while noFileEnd:
 		directionalityList = []
 		
+		count = 0
 		for f in fHandleList:
 			s = f.readline()
 			if not s:
@@ -87,9 +99,13 @@ def timeWindowCombiner(fileNameList, outfilename):
 				break		
 			else:
 				directionalityList.append(s.split("\t")[1].strip('\n'))
+
+			if count == 0:
+				featureTime = s
+			count += 1
 		
 		if noFileEnd:
-			outf.write(s.split("\t")[0]+"\t" + "\t".join(directionalityList) + "\n")
+			outf.write(featureTime.split("\t")[0]+"\t" + "\t".join(directionalityList) + "\n")
 
 	closeAllFile(fHandleList)
 	outf.close()
@@ -102,6 +118,10 @@ filesList = [ f for f in listdir(INPUT_DATA_DIR)
 # move the LABEL to the end of fileList
 filesList.remove(LABEL)
 filesList.append(LABEL)
+
+# remove unnecessary features
+for filename in REMOVE_FEATURE:
+	filesList.remove(filename)
 
 timeWindowCombiner(filesList, "result.txt")
 

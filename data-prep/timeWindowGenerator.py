@@ -4,7 +4,7 @@
 # @Author: Name:Shimin Wang; andrewID:shiminw
 # @Email: wyudun@gmail.com
 # @Date:   2015-09-16 01:32:54
-# @Last Modified time: 2015-09-16 22:24:53
+# @Last Modified time: 2015-09-27 11:24:36
 #
 # @Description: pre-process the data so that 
 # it align within a TIME_WINDOW_SIZE minutes window
@@ -21,8 +21,8 @@ TIME_WINDOW_SIZE = 1
 TIME_STEP = datetime.timedelta(minutes=TIME_WINDOW_SIZE) 
 
 # Define input and out put directory
-INPUT_DATA_DIR = "../lab1/smallSampleData/"
-OUTPUT_DATA_DIR = "../lab1/alignedData/"
+INPUT_DATA_DIR = "../../lab1/sampleData/"
+OUTPUT_DATA_DIR = "../../lab1/alignedData/"
 
 
 def timeWindowGenerator(filename):
@@ -80,6 +80,8 @@ filesList = [ f for f in listdir(INPUT_DATA_DIR)
 	if f.endswith("csv") and isfile(join(INPUT_DATA_DIR,f)) ]
 
 for fname in filesList:
-	timeWindowGenerator(fname)
+   timeWindowGenerator(fname)
+   print fname, " processed done."
+   
 
 

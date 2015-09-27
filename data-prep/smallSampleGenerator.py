@@ -4,7 +4,7 @@
 # @Author: Name:Shimin Wang; andrewID:shiminw
 # @Email: wyudun@gmail.com
 # @Date:   2015-09-16 00:00:06
-# @Last Modified time: 2015-09-16 22:18:51
+# @Last Modified time: 2015-09-27 11:24:31
 #
 # @Description: pick at most MAX_LINE of data from 
 # a file and save it to a specific dir.
@@ -19,8 +19,8 @@ from os.path import isfile, join
 MAX_LINE = 100
 
 # Define input and out put directory
-INPUT_DATA_DIR = "../lab1/sampleData/"
-OUTPUT_DATA_DIR = "../lab1/smallSampleData/"
+INPUT_DATA_DIR = "../../lab1/sampleData/"
+OUTPUT_DATA_DIR = "../../lab1/smallSampleData/"
 
 filesList = [ f for f in listdir(INPUT_DATA_DIR) 
 	if f.endswith("csv") and isfile(join(INPUT_DATA_DIR,f)) ]
