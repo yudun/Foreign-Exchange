@@ -4,7 +4,7 @@
 # @Author: Name:Shimin Wang; andrewID:shiminw
 # @Email: wyudun@gmail.com
 # @Date:   2015-09-16 01:32:54
-# @Last Modified time: 2015-09-27 11:24:36
+# @Last Modified time: 2015-09-27 21:38:00
 #
 # @Description: pre-process the data so that 
 # it align within a TIME_WINDOW_SIZE minutes window
