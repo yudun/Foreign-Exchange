@@ -47,6 +47,7 @@ public class PreDecisionTree {
 
     // split and push children nodes into q
     public void split(Queue<PreDecisionTree> q) {
+
         // we stop splitting on bottomest level and empty node
         if (data.size() == 0 || level == ConfigDataSingleton.FEATURE_NUM - 1 || level == -1) {
             this.level = -1;
@@ -94,6 +95,7 @@ public class PreDecisionTree {
             }
         }
 
+
         // if one of the child node has empty data set, we
         // set its label as the opposite of the other node
         // We revised the broken node by adding 1 to achieve this
@@ -126,7 +128,6 @@ public class PreDecisionTree {
     private int evaluateIG(){
         int resultIdx = 0;
         double minIG = getIG(0);
-
         for(int testIdx = 1; testIdx < ConfigDataSingleton.FEATURE_NUM; testIdx++) {
             double tmpIG = getIG(testIdx);
             if(minIG > tmpIG) {
@@ -141,10 +142,18 @@ public class PreDecisionTree {
     // calculate the entropy for a list of data
     private double H(ArrayList<DataInstance> data){
         int size = data.size();
+
+        if(size == 0)
+            return 0;
+
         int zeroNum = 0;
         for(DataInstance dt: data){
             if(dt.label == 0)
                 zeroNum ++;
+        }
+
+        if(zeroNum == 0 || zeroNum == size) {
+            return 0;
         }
 
         double pZero = zeroNum * 1.0 / size;

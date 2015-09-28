@@ -4,7 +4,7 @@
 # @Author: Name:Shimin Wang; andrewID:shiminw
 # @Email: wyudun@gmail.com
 # @Date:   2015-09-16 00:01:48
-# @Last Modified time: 2015-09-27 11:25:13
+# @Last Modified time: 2015-09-27 23:41:53
 #
 # @Description: Combining aligned into a single file where
 # each record shows the directiobality for different currency.
@@ -124,4 +124,3 @@ for filename in REMOVE_FEATURE:
 	filesList.remove(filename)
 
 timeWindowCombiner(filesList, "result.txt")
-

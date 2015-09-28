@@ -11,26 +11,22 @@ import java.util.Queue;
  */
 
 public class DecisionTreeBuilder {
-    static int maxDepth = 0;
 
+    // get the prediction value from given features
     public static int getPredition(PreDecisionTree T, DataInstance dt) {
         while(true) {
-            if(maxDepth < T.level)
-                maxDepth = T.level;
 
             if(T.level == -1) {
                 return T.label;
             } else {
-                if (dt.feature[T.featureIdx] == 0)
+                if (dt.feature[T.featureIdx] == 0){
                     T = T.left;
-                else
+                }
+                else {
                     T = T.right;
+                }
             }
         }
-    }
-
-    public static void dumpModel(PreDecisionTree T, String filename){
-
     }
 
     public static void main(String [] args) {
@@ -52,6 +48,7 @@ public class DecisionTreeBuilder {
         System.out.println("Totally " + trainingSet.size() + " training instances read.");
 
 
+
         /** Begin Training **/
         // create a queue for training this tree from top down
         Queue<PreDecisionTree> queue = new LinkedList<>();
@@ -60,11 +57,14 @@ public class DecisionTreeBuilder {
         T.data = trainingSet;
         queue.add(T);
 
+        // Training this tree from branching the root
         while(queue.size() > 0) {
             PreDecisionTree currentT = queue.remove();
             currentT.split(queue);
         }
-        System.out.println("Training is done. The max depth is: " + maxDepth);
+        System.out.println("Training is done.");
+
+
 
         /** Get Test data **/
         ArrayList<DataInstance> testSet = new ArrayList<>();
@@ -80,6 +80,8 @@ public class DecisionTreeBuilder {
         }
         System.out.println("Totally " + testSet.size() + " test instances read.");
 
+
+
         /** Begin Test **/
         int countCorrect = 0;
         double size = testSet.size();
@@ -90,9 +92,19 @@ public class DecisionTreeBuilder {
         }
 
         T.accuracy = countCorrect / size;
-        System.out.println("The accuracy of our decision tree is " + T.accuracy * 100 + "%");
 
-        dumpModel(T, "decisionTree");
+        System.out.println();
+        System.out.println("The accuracy of our decision tree is " + T.accuracy * 100 + "%");
+        int count1 = 0;
+        for(DataInstance dt : trainingSet) {
+            if(dt.label == 1){
+                count1 ++;
+            }
+        }
+        System.out.println("The percentage of label value 1 in training set is "
+                + (1.0 * count1 / trainingSet.size()) * 100 + "%");
+
+//        dumpModel(T, "decisionTree");
 
     }
 
