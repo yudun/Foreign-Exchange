@@ -1,7 +1,8 @@
+
 My decision tree is trained by 24198 instantces from Jan.2015.
 The maximum depth is 14 (we use 14 features).
 
-After testing on 6050 test Set, it results in an accuracy of 83.77%.
+After testing on a test Set of size 6050, it results in an accuracy of 83.77%.
 But it doesn't mean that it is a very good model, because some statistics on my
 traning data shows that the percentage of label value 1 in training set is 80.65%,
 So even if we make a prediction as all the label to be 1, we can gain a accuracy as 
@@ -19,3 +20,4 @@ So in general, this model gain improvement from a blind "all-1-prediction" by
 of other currency is not very strong, may be we should try other features or tune the "future step";
 
 2. The training set should be larger, which may result in a more significant performance.
+
