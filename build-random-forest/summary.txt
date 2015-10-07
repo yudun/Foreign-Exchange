@@ -1,0 +1,30 @@
+
+My random forest is trained by 24198 instantces from Jan.2015.
+
+Statistics on my traning data shows that the percentage of label value 1 in training set is 84.74%,
+So even if we make a prediction as all the label to be 1, we can gain a accuracy as high as 84%.
+
+I have experimented with different forest size N and subspace size.
+The result of my experiment is following:
+	when random subspace size = 3
+		N = 100: 84.74%
+		N = 200: 84.74%
+		N = 1000: 84.74%
+
+	when random subspace size = 14 (we use the whole feature space)
+		N = 100: 83.73%
+		N = 200: 83.88%
+		N = 1000: 83.95%
+
+It's easy to see that our forest is not working very well, even worse than a blind "all-1-prediction".
+But there is some reasonable explanation to it:
+ 1. The relation between directionality of EUR/USD 10 mins later and all the directionality of other currency
+    exchange is very weak, so building such a model on it is kind of not pliable.
+ 2. Our test data set consist of a high percent of 1s, which is natively a bad test data set.
+ 3. My binary features make the splitting process in my decision trees a little naive, so some continuous
+    feature instead my improve it.
+
+There is also some other interesting conclusion I can address. For example, it is obviously that when I choose
+a smaller random subspace, say 3, it is better than choose all the feature. It justify the idea of random subspace,
+which make each tree focus on a subset of the original feature space, which can not only avoid overfitting, but
+can also introduce more variance in the voting procedure in our random forest.
