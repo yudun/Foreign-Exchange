@@ -1,7 +1,5 @@
 import java.io.*;
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.*;
 
 /**
  * Created by Shimin Wang (andrewid: shiminw) on 15/9/27.
@@ -9,58 +7,40 @@ import java.util.Queue;
 
 public class RandomForestBuilder {
 
+
+    // randomly select m (m<=n) distinct number from 0 ~ n-1;
+    private static ArrayList<Integer> randomSelectNum(int n, int m){
+        ArrayList<Integer> source = new ArrayList<>(n);
+
+        for(int i=0; i<n; i++){
+            source.add(i);
+        }
+
+        Collections.shuffle(source);
+
+        return new ArrayList<Integer>(source.subList(0, m));
+    }
+
+
     // split the training set into training subset and testSubset
     private static void splitTrainingSet(ArrayList<DataInstance> trainingSet,
                            ArrayList<DataInstance> trainingSubSet,
                            ArrayList<DataInstance> testSubSet){
 
-        ArrayList<Boolean> addedMark = new ArrayList<>();
         int trainingSize = trainingSet.size();
         int subSetSize = (int)(trainingSize * ConfigDataSingleton.TRAINING_SUBSET_RATIO);
 
-        for (int i = 0; i < trainingSize; i++)
-            addedMark.add(Boolean.FALSE);
+        Collections.shuffle(trainingSet);
 
-        while(trainingSubSet.size() < subSetSize) {
-            for (int i = 0; i < trainingSize; i++) {
-
-                if(Math.random() < 1.0 * subSetSize / trainingSize) {
-                    // if this instance has not been added to the subset
-                    if ( !addedMark.get(i) ){
-                        trainingSubSet.add(trainingSet.get(i));
-                        addedMark.set(i, Boolean.TRUE);
-
-                        if(trainingSubSet.size() >= subSetSize)
-                            break;
-                    }
-                }
-
-            }
+        for (int i = 0; i < subSetSize; i++) {
+            trainingSubSet.add(trainingSet.get(i));
         }
 
-        for (int i = 0; i < trainingSize; i++){
-            Boolean mark = addedMark.get(i);
-            if(!mark)
-                testSubSet.add(trainingSet.get(i));
+
+        for (int i = subSetSize; i < trainingSize; i++){
+            testSubSet.add(trainingSet.get(i));
         }
 
-    }
-
-    // select m number from 0 ~ n-1;
-    private static ArrayList<Integer> randomSelectNum(int n, int m){
-        ArrayList<Integer> result = new ArrayList<>();
-
-        int choice = 0;
-        while(result.size() < m) {
-            if(Math.random() < 1.0 * m / n) {
-                if ( !result.contains( choice%n )){
-                    result.add( choice%n );
-                }
-            }
-            choice ++;
-        }
-
-        return result;
     }
 
     private static int getMode(ArrayList<Integer> votes){
