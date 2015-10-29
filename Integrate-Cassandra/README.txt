@@ -20,14 +20,14 @@ create table performanceMetrics ( name varchar,
 This table will store the result of my learning algorithm, and here is how does it look like:
 cqlsh:financialdata> select * from performancemetrics ;
 
-							 name          | value
-							---------------+----------
-							  testDataSize |     6050
-								  accuracy | 0.847438
-							  truePositive |     5127
-							  trueNegative |        0
-							 falsePositive |      923
-							 falseNegative |        0
+			 name          | value
+			---------------+----------
+			  testDataSize |     6050
+				  accuracy | 0.847438
+			  truePositive |     5127
+			  trueNegative |        0
+			 falsePositive |      923
+			 falseNegative |        0
 
 
 
