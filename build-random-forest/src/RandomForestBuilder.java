@@ -1,3 +1,5 @@
+import com.google.gson.Gson;
+
 import java.io.*;
 import java.util.*;
 
@@ -148,12 +150,12 @@ public class RandomForestBuilder {
 
             T.accuracy = 1.0 * countCorrect /testSubSet.size();
 
+
             forest.addTree(T);
 
             System.out.println("Training for the " + (i+1) + "th tree is done. Its accuracy is "
                     + (T.accuracy)*100 + "%");
         }
-
 
         /** Get Test data **/
         ArrayList<DataInstance> testSet = new ArrayList<>();

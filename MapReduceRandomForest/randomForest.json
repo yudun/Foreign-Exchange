@@ -1,0 +1,4202 @@
+[
+  {
+    "accuracy": 0.8088271757996529,
+    "level": 0,
+    "featureIdx": 8,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.803868088271758,
+    "level": 0,
+    "featureIdx": 6,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 3,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 3,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8183734192908505,
+    "level": 0,
+    "featureIdx": 8,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 5,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 1,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8074634267294818,
+    "level": 0,
+    "featureIdx": 7,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 1,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8089511529878503,
+    "level": 0,
+    "featureIdx": 0,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 8,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8044879742127449,
+    "level": 0,
+    "featureIdx": 8,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 9,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 9,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8101909248698239,
+    "level": 0,
+    "featureIdx": 10,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 3,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 3,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8120505826927845,
+    "level": 0,
+    "featureIdx": 0,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 12,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 8,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8056037689065212,
+    "level": 0,
+    "featureIdx": 0,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 3,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 3,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8132903545747583,
+    "level": 0,
+    "featureIdx": 8,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 13,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 12,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8036201338953632,
+    "level": 0,
+    "featureIdx": 3,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 12,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 12,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8060996776593107,
+    "level": 0,
+    "featureIdx": 10,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 9,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 1,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8095710389288371,
+    "level": 0,
+    "featureIdx": 7,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 8,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 8,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8042400198363501,
+    "level": 0,
+    "featureIdx": 7,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 8,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 8,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8059757004711133,
+    "level": 0,
+    "featureIdx": 5,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 1,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 1,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8085792214232581,
+    "level": 0,
+    "featureIdx": 5,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8021324076369948,
+    "level": 0,
+    "featureIdx": 1,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 12,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 11,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8093230845524424,
+    "level": 0,
+    "featureIdx": 6,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 8,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 8,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8105628564344161,
+    "level": 0,
+    "featureIdx": 0,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 7,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 4,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8057277460947185,
+    "level": 0,
+    "featureIdx": 0,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 6,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 4,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8064716092239028,
+    "level": 0,
+    "featureIdx": 7,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8073394495412844,
+    "level": 0,
+    "featureIdx": 4,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8087031986114555,
+    "level": 0,
+    "featureIdx": 8,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 3,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 3,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8033721795189686,
+    "level": 0,
+    "featureIdx": 0,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 13,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 12,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8046119514009422,
+    "level": 0,
+    "featureIdx": 5,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 1,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 1,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8070914951648896,
+    "level": 0,
+    "featureIdx": 0,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 10,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 6,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8111827423754029,
+    "level": 0,
+    "featureIdx": 7,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 9,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 4,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8043639970245475,
+    "level": 0,
+    "featureIdx": 8,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 10,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 10,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8031242251425738,
+    "level": 0,
+    "featureIdx": 7,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 12,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8042400198363501,
+    "level": 0,
+    "featureIdx": 4,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8103149020580214,
+    "level": 0,
+    "featureIdx": 7,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 11,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 1,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8099429704934292,
+    "level": 0,
+    "featureIdx": 0,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 9,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 1,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.803868088271758,
+    "level": 0,
+    "featureIdx": 10,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 13,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 13,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8056037689065212,
+    "level": 0,
+    "featureIdx": 8,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 5,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 12,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8095710389288371,
+    "level": 0,
+    "featureIdx": 7,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 3,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 8,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8109347879990082,
+    "level": 0,
+    "featureIdx": 7,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 10,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 10,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8067195636002975,
+    "level": 0,
+    "featureIdx": 4,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8105628564344161,
+    "level": 0,
+    "featureIdx": 2,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 9,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 1,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8118026283163898,
+    "level": 0,
+    "featureIdx": 10,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 9,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 1,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8090751301760476,
+    "level": 0,
+    "featureIdx": 6,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 13,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 11,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.7990329779320605,
+    "level": 0,
+    "featureIdx": 7,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8018844532606001,
+    "level": 0,
+    "featureIdx": 7,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 13,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 13,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8002727498140342,
+    "level": 0,
+    "featureIdx": 3,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 5,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8098189933052319,
+    "level": 0,
+    "featureIdx": 0,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 10,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 10,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8090751301760476,
+    "level": 0,
+    "featureIdx": 7,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 5,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 5,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.805851723282916,
+    "level": 0,
+    "featureIdx": 0,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 6,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 6,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8074634267294818,
+    "level": 0,
+    "featureIdx": 6,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 10,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 12,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.7990329779320605,
+    "level": 0,
+    "featureIdx": 6,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 5,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 8,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8023803620133896,
+    "level": 0,
+    "featureIdx": 3,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 13,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 12,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8087031986114555,
+    "level": 0,
+    "featureIdx": 0,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 10,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 10,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.805851723282916,
+    "level": 0,
+    "featureIdx": 4,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 7,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8039920654599554,
+    "level": 0,
+    "featureIdx": 7,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 9,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 1,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8088271757996529,
+    "level": 0,
+    "featureIdx": 3,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 5,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8130424001983635,
+    "level": 0,
+    "featureIdx": 8,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 10,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.807215472353087,
+    "level": 0,
+    "featureIdx": 0,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 5,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 5,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8054797917183238,
+    "level": 0,
+    "featureIdx": 5,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 9,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 1,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8023803620133896,
+    "level": 0,
+    "featureIdx": 7,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 13,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 4,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8105628564344161,
+    "level": 0,
+    "featureIdx": 6,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 5,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 13,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.805231837341929,
+    "level": 0,
+    "featureIdx": 7,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 8,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 8,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8034961567071659,
+    "level": 0,
+    "featureIdx": 5,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 11,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 1,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8073394495412844,
+    "level": 0,
+    "featureIdx": 6,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 10,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 8,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8070914951648896,
+    "level": 0,
+    "featureIdx": 10,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 9,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 13,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8120505826927845,
+    "level": 0,
+    "featureIdx": 3,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 13,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 1,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8027522935779816,
+    "level": 0,
+    "featureIdx": 8,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 12,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 12,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8042400198363501,
+    "level": 0,
+    "featureIdx": 7,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 3,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 3,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8136622861393503,
+    "level": 0,
+    "featureIdx": 6,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 8,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 8,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8096950161170344,
+    "level": 0,
+    "featureIdx": 10,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 5,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 8,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8080833126704686,
+    "level": 0,
+    "featureIdx": 7,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 4,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 4,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.806223654847508,
+    "level": 0,
+    "featureIdx": 10,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 5,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 5,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8085792214232581,
+    "level": 0,
+    "featureIdx": 0,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 5,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 1,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.806223654847508,
+    "level": 0,
+    "featureIdx": 0,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 3,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 4,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8022563848251921,
+    "level": 0,
+    "featureIdx": 0,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 4,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 8,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8113067195636003,
+    "level": 0,
+    "featureIdx": 3,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8079593354822713,
+    "level": 0,
+    "featureIdx": 10,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 5,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 5,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8073394495412844,
+    "level": 0,
+    "featureIdx": 8,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 10,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 10,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8083312670468634,
+    "level": 0,
+    "featureIdx": 0,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 10,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 1,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8099429704934292,
+    "level": 0,
+    "featureIdx": 10,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 5,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 13,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8070914951648896,
+    "level": 0,
+    "featureIdx": 6,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 9,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 9,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.801512521696008,
+    "level": 0,
+    "featureIdx": 3,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 6,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 6,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8070914951648896,
+    "level": 0,
+    "featureIdx": 8,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.803868088271758,
+    "level": 0,
+    "featureIdx": 6,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 12,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 1,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8099429704934292,
+    "level": 0,
+    "featureIdx": 2,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 9,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 13,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8104388792462187,
+    "level": 0,
+    "featureIdx": 0,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8003967270022316,
+    "level": 0,
+    "featureIdx": 3,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 13,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 1,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8088271757996529,
+    "level": 0,
+    "featureIdx": 7,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 6,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 6,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8025043392015869,
+    "level": 0,
+    "featureIdx": 7,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 8,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 8,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8103149020580214,
+    "level": 0,
+    "featureIdx": 6,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 8,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 8,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.806843540788495,
+    "level": 0,
+    "featureIdx": 7,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 6,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 1,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8078353582940739,
+    "level": 0,
+    "featureIdx": 7,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 10,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 1,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8096950161170344,
+    "level": 0,
+    "featureIdx": 6,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 9,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 9,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8088271757996529,
+    "level": 0,
+    "featureIdx": 10,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8087031986114555,
+    "level": 0,
+    "featureIdx": 10,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 5,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 13,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.811554673939995,
+    "level": 0,
+    "featureIdx": 8,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.79952888668485,
+    "level": 0,
+    "featureIdx": 7,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8060996776593107,
+    "level": 0,
+    "featureIdx": 3,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 4,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 4,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8039920654599554,
+    "level": 0,
+    "featureIdx": 10,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 1,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8074634267294818,
+    "level": 0,
+    "featureIdx": 2,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 9,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 9,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.806843540788495,
+    "level": 0,
+    "featureIdx": 8,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8122985370691793,
+    "level": 0,
+    "featureIdx": 4,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 2,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 8,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  },
+  {
+    "accuracy": 0.8065955864121002,
+    "level": 0,
+    "featureIdx": 3,
+    "left": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 9,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "right": {
+      "accuracy": 0,
+      "level": 1,
+      "featureIdx": 9,
+      "left": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "right": {
+        "accuracy": 0,
+        "level": -1,
+        "featureIdx": -1,
+        "label": 1
+      },
+      "label": 1
+    },
+    "label": 0
+  }
+]
