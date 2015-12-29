@@ -1,2 +1,3 @@
 # Foreign-Exchange
-Please download data from CMU Box
+
+Assignments for Course Big Data Analytics
